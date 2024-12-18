@@ -4,7 +4,7 @@
 
 ---
 
-![Billify](images/Billify.png)
+![Billify](Billify.png)
 
 ---
 
