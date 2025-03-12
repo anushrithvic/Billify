@@ -34,7 +34,7 @@
 
 - **Python**: Core programming language.
 - **Tkinter**: GUI framework for the application.
-- **Pillow**: Image processing for the background.
+- **Pillow**: Image processing.
 - **FPDF**: PDF generation library.
 - **MySQL**: Database to store invoice details.
 
