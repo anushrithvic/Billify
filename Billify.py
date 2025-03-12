@@ -12,7 +12,7 @@ Billify.resizable(False, False)
 Billify.title("Billify")
 
 # Load the image using Pillow
-Bg_image = ImageTk.PhotoImage(Image.open('bg.png'))
+Bg_image = ImageTk.PhotoImage(Image.open('billify.png'))
 
 # Create a label to display the image
 Label(Billify, image=Bg_image).place(x=0, y=0)
